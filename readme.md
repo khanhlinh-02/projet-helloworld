@@ -5,3 +5,4 @@ ce projet contient un script **hello.sh** qui:
 2. Affiche 'Helle World'
 
 nouveau texte
+texte specifique prestataire
